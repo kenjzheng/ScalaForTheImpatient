@@ -5,7 +5,7 @@ import java.util
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * Created by U0068746 on 7/31/2018.
+  * Created by Ken.J.Zheng on 7/31/2018.
   */
 object Questions extends App {
   //1. Write a code snippet that sets a to an array of n random integers between 0 (inclusive) and n (exclusive).
